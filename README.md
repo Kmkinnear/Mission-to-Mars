@@ -19,3 +19,9 @@
 <img width="764" alt="image" src="https://user-images.githubusercontent.com/110848660/203840540-991f7b06-98a8-4f0b-b87d-99ebc64a1e60.png">
 
 <img width="561" alt="image" src="https://user-images.githubusercontent.com/110848660/203840967-69180ea5-988a-4868-9da4-e84cb8307831.png">
+
+5.  About how many terrestrial (Earth) days exist in a Martian year? That is, in the time that Mars circles the Sun once, how many days elapse on Earth? Visually estimate the result by plotting the daily minimum temperature. - I decided to use a line chart for the last question where we were looking to come up with how many Earth days exist in a Martian year. I figured that we could come up with how long a Martian year was by watching the temperature reach the lowest temperate and then reach the highest temperature. You could pick a point on the line chart and find the time range after a minimum a max temperature had been reached and use that to try and measure the number of Terrestrial Days that had passed. In our chart we can see that our tick marks are about every 10 months. We can assume there are around 30 days in a month. In our chart we can see from Point 1 to Point 2 is about 2.3 ticks. To find the number of days we can take 10 (months per tick) * 2.3 (ticks of data between our starting temp, the high temp, the low temp, and return back to our starting temp) * 30 (Earth days in a month) = 690 terrestrial days in 1 Martian year.
+
+<img width="813" alt="image" src="https://user-images.githubusercontent.com/110848660/203841212-f20318c6-4a25-4b41-9444-095f706e4b31.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/110848660/203841853-b324f579-7664-4383-82ec-9ec7c5ba9e42.png">
