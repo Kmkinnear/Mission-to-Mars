@@ -8,9 +8,10 @@
 
 2.  How many Martian (and not Earth) days worth of data exist in the scraped dataset? 
   
-    I used the same approach as question 1 and decided to count how many sols (Martian Days) worth of data that existed
+    I used the same approach as question 1 and decided to count how many sols (Martian Days) worth of data that existed. That gave me 1,867 Sols worth of data
 
-<img width="638" alt="image" src="https://user-images.githubusercontent.com/110848660/203839877-0b2b530d-f8db-40e1-bbba-c2a6d50c8749.png">
+<img width="658" alt="image" src="https://user-images.githubusercontent.com/110848660/203843759-522a85fa-b9c9-4c86-9281-56cee7b86f6e.png">
+
 
 3.  What are the coldest and the warmest months on Mars (at the location of Curiosity)? Get the answer by averaging the minimum daily temperature of all the months. Plot the results as a bar chart. 
   
